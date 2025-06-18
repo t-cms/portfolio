@@ -1,4 +1,4 @@
-# Data Analyst/ Data Journalist 
+# Tiasia Saunders's Portfolio 
 ### Technical Skills:
 #### Programming & Analysis: R, SQL
 #### Data Visualization: Datawrapper, Flourish
