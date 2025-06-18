@@ -38,4 +38,7 @@
 
 ## Projects 
 - [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
+
+  
 ## Publications 
+- [The Unsurprising Lack of DEIA in NASA's Pathways Program Hiring Patterns](https://scholarscompass.vcu.edu/semss_pubs/1/)
