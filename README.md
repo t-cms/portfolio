@@ -18,9 +18,14 @@
 
 ## Data Visualizations 
 - [2020 Maryland County Election Results and January 6 Participant Counts](https://public.flourish.studio/visualisation/22808280/)
+- Appeared in [Capital News Service](https://cnsmaryland.org/2025/05/09/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [the Southern Maryland Chronicle](https://southernmarylandchronicle.com/2025/05/27/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [Maryland Matters](https://marylandmatters.org/2025/05/26/pardoned-maryland-jan-6-participants-find-support-after-convictions/#:~:text=6%2C%202021%2C%20insurrection%20at%20the,new%20acquaintances%20in%20his%20community.), and [the Balitmore Sun](https://www.baltimoresun.com/2025/05/26/pardoned-maryland-residents-jan-6-insurrection/)
 - Tools: Flourish, R
 
 ![[_2020 MD County Votes Map with Districts]](https://github.com/user-attachments/assets/221a242c-0257-455a-8cb3-f8ab82282d37)
+
+-Frederick Political Shift 
+![_Frederick County: A Battelground of Shifting Politics](https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21)
+
 
 ## Projects 
 - [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
