@@ -16,6 +16,11 @@
 - Use HTML/ CSS for webpage development
 - Contribute to innovative and impactful journalism
 
+## Data Visualizations 
+- 2020 Maryland County Election Results and January 6 Participant Counts
+- Tools: Flourish, R 
+![_2020 MD County Votes Map with Districts ](https://github.com/user-attachments/assets/bf58f3a1-7474-43e4-91e5-517b487db4db)
+
 ## Projects 
 - [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
 ## Publications 
