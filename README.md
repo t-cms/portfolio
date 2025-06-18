@@ -19,8 +19,8 @@
 ## Data Visualizations 
 - 2020 Maryland County Election Results and January 6 Participant Counts
 - Tools: Flourish, R
-  
-![_2020 MD County Votes Map with Districts ](https://public.flourish.studio/visualisation/22808280/)
+
+![[_2020 MD County Votes Map with Districts](https://public.flourish.studio/visualisation/22808280/) ](https://github.com/user-attachments/assets/221a242c-0257-455a-8cb3-f8ab82282d37)
 
 ## Projects 
 - [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
