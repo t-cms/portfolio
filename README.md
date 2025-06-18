@@ -23,8 +23,9 @@
 
 ![[_2020 MD County Votes Map with Districts]](https://github.com/user-attachments/assets/221a242c-0257-455a-8cb3-f8ab82282d37)
 
--Frederick Political Shift 
-![_Frederick County: A Battelground of Shifting Politics](https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21)
+- Frederick Political Shift 
+![_Frederick County: A Battelground of Shifting Politics]<img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="600" />
+
 
 
 ## Projects 
