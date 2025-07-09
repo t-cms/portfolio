@@ -31,14 +31,16 @@
 <img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="600" />
 
 
-
+- Department of Transportation's High Hazard Flammable Trains Graphic
+- < img src ="https://github.com/user-attachments/assets/f3038c2d-db5a-4a64-b4cd-1c1f55ad8bde" alt= "Critics say a federal definition of a heavily regulated train understates how many chemicals travel through local communities." />
 
 
 
 
 ## Projects 
 - [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
-- (ASVAB Testing Program Demographic Analysis (https://t-cms.github.io/personal_code_projects/asvab_work/asvab_work.html)
+- [ASVAB Testing Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/asvab_work/asvab_work.html)
+- [Pipeline and Hazardous Materials Safety Administration Docket 2019-0091 Comments's Analysis] (https://t-cms.github.io/personal_code_projects/cns_work/phmsa_comments_work.html)
 
   
 ## Publications 
