@@ -16,7 +16,7 @@
 - Use HTML/ CSS for webpage development
 - Contribute to innovative and impactful journalism
 
-**Data Journalist Intern @ Howard Center for Investigative Journalism (_June 2025 - August 2025_)
+**Data Journalist Intern @ Howard Center for Investigative Journalism (_June 2025 - August 2025_)**
 - Analyze PHMSA public docket comments using sentiment analysis, topic modeling, and other data analysis techniques
 - Conduct fact-checking, source outreach, and background research for investigative reporting on hazardous rail infrastructure
 - Create visualizations and data graphics to highlight patterns and safety concerns in rail projects
