@@ -30,8 +30,7 @@
 
 <img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="600" />
 
-
-- ![Department of Transportation's High Hazard Flammable Trains Graphic](https://github.com/t-cms/portfolio/blob/main/Hazmat%20Trains%20Graphic%20(1).png)
+![Department of Transportation's High Hazard Flammable Trains Graphic](https://github.com/t-cms/portfolio/blob/main/Hazmat%20Trains%20Graphic%20(1).png)
 
 
 
