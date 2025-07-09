@@ -1,8 +1,8 @@
 # Tiasia Saunders's Portfolio 
 ### Technical Skills:
-#### Programming & Analysis: R, SQL
+#### Programming & Analysis: R, SQL, Excel
 #### Data Visualization: Datawrapper, Flourish
-#### Web Development: HTML, CSS
+#### Web Development: HTML, CSS, Javascript
 
 ## Education 
 - M.J., Master's of Professional Journalism (specializing in Data Journalism) | University of Maryland | (_May 2026_)
