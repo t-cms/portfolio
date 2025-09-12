@@ -26,10 +26,11 @@
 
 
 ## Data Visualizations 
-![[**What defines a high-hazard flammable train**]](https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png)
+![[**What defines a high-hazard flammable train**]]
+<img src="https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png" alt="What defines a high-hazard flammable train" width="600" />
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
 - Tools: Adobe Illustrator
-<img src="https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png" alt="What defines a high-hazard flammable train" width="600" />
+
 
 [**2020 Maryland County Election Results and January 6 Participant Counts**](https://public.flourish.studio/visualisation/22808280/)
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/05/09/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [the Southern Maryland Chronicle](https://southernmarylandchronicle.com/2025/05/27/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [Maryland Matters](https://marylandmatters.org/2025/05/26/pardoned-maryland-jan-6-participants-find-support-after-convictions/#:~:text=6%2C%202021%2C%20insurrection%20at%20the,new%20acquaintances%20in%20his%20community.), and [the Balitmore Sun](https://www.baltimoresun.com/2025/05/26/pardoned-maryland-residents-jan-6-insurrection/)
