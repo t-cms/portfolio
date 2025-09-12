@@ -26,7 +26,7 @@
 
 
 ## Data Visualizations 
-![[What defines a high-hazard flammable train]](https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png)
+![[ What defines a high-hazard flammable train]](https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png)
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
 - Tools: Adobe Illustrator
 
