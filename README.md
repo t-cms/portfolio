@@ -2,7 +2,7 @@
 ### Technical Skills:
 #### Programming & Analysis: R, SQL, Excel
 #### Data Visualization: Datawrapper, Flourish
-#### Web Development: HTML, CSS, Javascript
+#### Web Development: HTML, CSS, JavaScript
 
 ## Education 
 - M.J., Master's of Professional Journalism (specializing in Data Journalism) | University of Maryland | (_May 2026_)
@@ -11,7 +11,7 @@
 ## Work Experience 
 **Data Analyst/ Journalist Fellow @ Howard Center for Investigative Journalism (_August 2024- Present_)**
 - Develop and publish  data-driven investigative stories 
-- Learn web development, interactive design, and coding in languages such as Javascript and Python
+- Learn web development, interactive design, and coding in languages such as JavaScript and Python
 - Use R and Python for data analysis 
 - Use HTML/ CSS for webpage development
 - Contribute to innovative and impactful journalism
@@ -26,7 +26,7 @@
 
 
 ## Data Visualizations 
-[What defines a high-hazard flammable train](https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png)
+![[What defines a high-hazard flammable train]](https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png)
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
 - Tools: Adobe Illustrator
 
