@@ -34,6 +34,11 @@
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
 - Tools: Adobe Illustrator
 
+**High-hazard flammable train routes more active in Texas, Washington, and Midwest**
+<img src="https://github.com/t-cms/portfolio/blob/main/HHFT_map_graphic.png" width=600/>
+
+- Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
+
 
 [**2020 Maryland County Election Results and January 6 Participant Counts**](https://public.flourish.studio/visualisation/22808280/)
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/05/09/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [the Southern Maryland Chronicle](https://southernmarylandchronicle.com/2025/05/27/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [Maryland Matters](https://marylandmatters.org/2025/05/26/pardoned-maryland-jan-6-participants-find-support-after-convictions/#:~:text=6%2C%202021%2C%20insurrection%20at%20the,new%20acquaintances%20in%20his%20community.), and [the Balitmore Sun](https://www.baltimoresun.com/2025/05/26/pardoned-maryland-residents-jan-6-insurrection/)
@@ -53,9 +58,9 @@
 
 
 ## Projects 
+- [Pipeline and Hazardous Materials Safety Administration Docket 2019-0091 Comments' Analysis] (https://t-cms.github.io/personal_code_projects/cns_work/phmsa_comments_work.html)
 - [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
 - [ASVAB Testing Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/asvab_work/asvab_work.html)
-- [Pipeline and Hazardous Materials Safety Administration Docket 2019-0091 Comments' Analysis] (https://t-cms.github.io/personal_code_projects/cns_work/phmsa_comments_work.html)
 
   
 ## Publications 
