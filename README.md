@@ -54,21 +54,24 @@
 
 
 [**2020 Maryland County Election Results and January 6 Participant Counts**](https://public.flourish.studio/visualisation/22808280/)
+
+![[**2020 MD County Votes Map with Districts**]](https://github.com/user-attachments/assets/221a242c-0257-455a-8cb3-f8ab82282d37)
+
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/05/09/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [the Southern Maryland Chronicle](https://southernmarylandchronicle.com/2025/05/27/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [Maryland Matters](https://marylandmatters.org/2025/05/26/pardoned-maryland-jan-6-participants-find-support-after-convictions/#:~:text=6%2C%202021%2C%20insurrection%20at%20the,new%20acquaintances%20in%20his%20community.), and [the Balitmore Sun](https://www.baltimoresun.com/2025/05/26/pardoned-maryland-residents-jan-6-insurrection/)
 - An interactive map comparing 2020 presidential vote shares in Maryland counties with the number of residents charged in the January 6 Capitol attack.
 - Reveals geographic and political correlations in Maryland between voting behavior and post-election extremism.
 - Tools: Flourish, R
 
-![[**2020 MD County Votes Map with Districts**]](https://github.com/user-attachments/assets/221a242c-0257-455a-8cb3-f8ab82282d37)
-
 [**Frederick County: A Battleground of Shifting Politics**](https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21)
+
+<img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="600" />
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/05/09/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [The Southern Maryland Chronicle](https://southernmarylandchronicle.com/2025/05/27/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [Maryland Matters](https://marylandmatters.org/2025/05/26/pardoned-maryland-jan-6-participants-find-support-after-convictions/#:~:text=6%2C%202021%2C%20insurrection%20at%20the,new%20acquaintances%20in%20his%20community.), and [The Baltimore Sun](https://www.baltimoresun.com/2025/05/26/pardoned-maryland-residents-jan-6-insurrection/)
 - A visual breakdown of political realignment in Frederick County, Maryland—tracking voter trends, demographic changes, and shifting party control
 - Showcases nuanced, hyperlocal political changes in a swing county with growing electoral significance.
 - Tools: Adobe Illustrator
 
-<img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="600" />
+
 
 
 ## Projects 
