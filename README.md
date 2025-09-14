@@ -66,6 +66,7 @@
 
 <img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="600" />
 
+
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/05/09/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [The Southern Maryland Chronicle](https://southernmarylandchronicle.com/2025/05/27/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [Maryland Matters](https://marylandmatters.org/2025/05/26/pardoned-maryland-jan-6-participants-find-support-after-convictions/#:~:text=6%2C%202021%2C%20insurrection%20at%20the,new%20acquaintances%20in%20his%20community.), and [The Baltimore Sun](https://www.baltimoresun.com/2025/05/26/pardoned-maryland-residents-jan-6-insurrection/)
 - A visual breakdown of political realignment in Frederick County, Maryland—tracking voter trends, demographic changes, and shifting party control
 - Showcases nuanced, hyperlocal political changes in a swing county with growing electoral significance.
