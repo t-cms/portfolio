@@ -37,7 +37,7 @@
 
 **What defines a high-hazard flammable train**
 
-<img src="https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png" alt="What defines a high-hazard flammable train" width="600" />
+<img src="https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png" alt="What defines a high-hazard flammable train" width="800" />
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
 - An infographic visualizing regulatory and safety definitions of high-hazard flammable trains.
