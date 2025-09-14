@@ -45,7 +45,7 @@
 - Tools: Adobe Illustrator
 
 **High-hazard flammable train routes more active in Texas, Washington, and Midwest**
-<img src="https://github.com/t-cms/portfolio/blob/main/HHFT_map_graphic.png" width=600/>
+<img src="https://github.com/t-cms/portfolio/blob/main/HHFT_map_graphic.png" width=800/>
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
 - A geographic visualization showing active HHFT (High-Hazard Flammable Train) routes 
