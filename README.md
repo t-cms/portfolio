@@ -28,7 +28,7 @@
 ## Data Visualizations 
 
 **Trump DEI Coverage: Domestic vs. International Narratives**
-<img src="https://github.com/t-cms/portfolio/blob/main/trump_dei_graphic.png" width="600"/> 
+<img src="https://github.com/t-cms/portfolio/blob/main/trump_dei_graphic.png" width="800"/> 
 
 - Created for an in-progress academic paper on comparative media framing of DEI-related Trump coverage (targeting peer-reviewed publication).
 -  Highlights global narrative divergence and thematic emphasis between domestic and foreign reporting.
@@ -64,7 +64,7 @@
 
 [**Frederick County: A Battleground of Shifting Politics**](https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21)
 
-<img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="600" />
+<img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="800" />
 
 
 
