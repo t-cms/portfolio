@@ -27,6 +27,14 @@
 
 ## Data Visualizations 
 
+**Trump DEI Coverage: Domestic vs. International Narratives**
+<img src="https://github.com/t-cms/portfolio/blob/main/trump_dei_graphic.png" width="600"/> 
+
+- Created for an in-progress academic paper on comparative media framing of DEI-related Trump coverage (targeting peer-reviewed publication).
+- Tools: R (ggplot2), dplyr, tidytext
+- Sample size: n = 1,916 media articles (01/20–02/20)
+- Type: Comparative topic modeling visualization
+
 **What defines a high-hazard flammable train**
 
 <img src="https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png" alt="What defines a high-hazard flammable train" width="600" />
@@ -38,7 +46,7 @@
 <img src="https://github.com/t-cms/portfolio/blob/main/HHFT_map_graphic.png" width=600/>
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
-- Tools: Adobe Illustator
+- Tools: Adobe Illustrator
 
 
 [**2020 Maryland County Election Results and January 6 Participant Counts**](https://public.flourish.studio/visualisation/22808280/)
@@ -53,9 +61,6 @@
 - Tools: Adobe Illustrator
 
 <img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="600" />
-
-
-
 
 
 ## Projects 
