@@ -77,7 +77,7 @@
 
 
 ## Projects 
-- [Pipeline and Hazardous Materials Safety Administration Docket 2019-0091 Comments' Analysis] (https://t-cms.github.io/personal_code_projects/cns_work/phmsa_comments_work.html)
+- [Pipeline and Hazardous Materials Safety Administration Docket 2019-0091 Comments' Analysis] (https://t-cms.github.io/comp_text/Final_Project.html)
 - [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
 - [ASVAB Testing Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/asvab_work/asvab_work.html)
 
