@@ -77,6 +77,7 @@
 
 
 ## Projects 
+- [Framing the Border: How CNN and Fox News Cover Trump and Immigration] {https://t-cms.github.io/personal_code_projects/cj_final_project/trump_immigration_final_project/index.html) 
 - [Pipeline and Hazardous Materials Safety Administration Docket 2019-0091 Comments' Analysis] (https://t-cms.github.io/personal_code_projects/howard_center_work/phmsa_work/phmsa_comments_work.html)
 - [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
 - [ASVAB Testing Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/asvab_work/asvab_work.html)
