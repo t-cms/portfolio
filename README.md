@@ -1,4 +1,8 @@
 # Tiasia Saunders's Portfolio 
+
+### Professional Summary: 
+###### Howard University honors graduate and current fellow and graduate student at the Howard Center for Investigative Journalism at the University of Maryland. Additionally, a Data Journalist for the Capital News Service at UMD. Experienced in investigative and data-driven reporting with a focus on racial and socioeconomic disparities. Skilled in R, data visualization, and digital storytelling. Passionate about uncovering and telling powerful stories using data analysis, coding, and visualization tools.
+
 ### Technical Skills:
 #### Programming & Analysis: R, SQL, Excel
 #### Data Visualization: Datawrapper, Flourish
