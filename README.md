@@ -39,7 +39,7 @@
 ## Data Visualizations 
 
 **Trump DEI Coverage: Domestic vs. International Narratives**
-<img src="https://github.com/t-cms/portfolio/blob/main/trump_dei_graphic.png" width="800"/> 
+<img src="https://github.com/t-cms/portfolio/blob/36a8dcd476ff74cb97d8331e3a147e7f68cb17d3/trump_dei_graphic.png" width="800"/> 
 
 - Created for an in-progress academic paper on comparative media framing of DEI-related Trump coverage (targeting peer-reviewed publication).
 -  Highlights global narrative divergence and thematic emphasis between domestic and foreign reporting.
