@@ -13,7 +13,14 @@
 - B.A., Bachelor's of Arts in Media, Journalism and Film | Howard University | (_May 2024_)
 
 ## Work Experience 
-**Data Analyst/ Journalist Fellow @ Howard Center for Investigative Journalism (_August 2024- Present_)**
+**Data Journalist @ Capital News Service (_January 2026 - Present_)** 
+- Develop and publish  data-driven investigative stories 
+- Analyzed and cleaned large public datasets using R, SQL, and Excel to uncover trends in racial, socioeconomic, and policy-related issues across Maryland
+- Produced data-driven stories for publication by combining statistical analysis, investigative reporting, and public records
+- Created interactive and static data visualizations using Datawrapper, Flourish, and ggplot2 to clearly communicate complex findings to a general audience
+- Conducted original reporting by filing public records requests (FOIA) and synthesizing data with expert interviews
+
+**Data Journalist Fellow @ Howard Center for Investigative Journalism (_August 2024- Present_)**
 - Develop and publish  data-driven investigative stories 
 - Learn web development, interactive design, and coding in languages such as JavaScript and Python
 - Use R and Python for data analysis 
