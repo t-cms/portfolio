@@ -39,7 +39,7 @@
 ## Data Visualizations 
 
 **Trump DEI Coverage: Domestic vs. International Narratives**
-<img src="https://github.com/t-cms/portfolio/blob/36a8dcd476ff74cb97d8331e3a147e7f68cb17d3/trump_dei_graphic.png" width="800"/> 
+<img src="trump_dei_graphic.png" width="800"/> 
 
 - Created for an in-progress academic paper on comparative media framing of DEI-related Trump coverage (targeting peer-reviewed publication).
 -  Highlights global narrative divergence and thematic emphasis between domestic and foreign reporting.
@@ -48,7 +48,7 @@
 
 **What defines a high-hazard flammable train**
 
-<img src="https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png" alt="What defines a high-hazard flammable train" width="800" />
+<img src="HHFT Graphic.png" alt="What defines a high-hazard flammable train" width="800" />
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
 - An infographic visualizing regulatory and safety definitions of high-hazard flammable trains.
@@ -56,7 +56,7 @@
 - Tools: Adobe Illustrator
 
 **High-hazard flammable train routes more active in Texas, Washington, and Midwest**
-<img src="https://raw.githubusercontent.com/t-cms/portfolio/main/HHFT_map_graphic.png" width=800/>
+<img src="HHFT_map_graphic.png" width=800/>
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
 - A geographic visualization showing active HHFT (High-Hazard Flammable Train) routes 
