@@ -39,10 +39,18 @@
 ## Data Visualizations 
 
 **Partisan Divide on U.S-Iran Conflict Is Consistent Across Polls**
-<img src="partisan_divide_graphic.png" width="800 />
-- Highlights multiple national polling surveys partisian divide results about the U.S-Iran conflict
-- Tools: Excel, Datawrapper 
+<img src="partisan_divide_graphic.png" width="800"/>
 
+- Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/07/polls-show-majority-of-americans-disapprove-of-iran-conflict-as-trump-defends-war-in-address/)
+- Highlights multiple national polling surveys partisian divide results about the U.S-Iran conflict
+- Tools: Excel, Datawrapper
+
+**Outcomes of Immigration-Related Bills in the Maryland Legislature (2013–2026)**
+<img src="md_bills_graphic.png" width="800" /> 
+
+- Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/07/maryland-braces-for-increased-immigration-enforcement-with-dozens-of-bills/)  
+- A grouped bar chart that shows the outcome of Maryland immigration-related bills and the associated statuses for the count of bills for years 2013 - 2026. 
+- Tools Excel, Datawrapper 
 
 **Trump DEI Coverage: Domestic vs. International Narratives**
 <img src="trump_dei_graphic.png" width="800"/> 
