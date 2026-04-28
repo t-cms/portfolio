@@ -13,7 +13,7 @@
 - B.A., Bachelor's of Arts in Media, Journalism and Film | Howard University | (_May 2024_)
 
 ## Work Experience 
-**Data Journalist @ Capital News Service (_January 2026 - Present_)** 
+**Data and Graphics Journalist @ Capital News Service (_January 2026 - Present_)** 
 - Develop and publish  data-driven investigative stories 
 - Analyzed and cleaned large public datasets using R, SQL, and Excel to uncover trends in racial, socioeconomic, and policy-related issues across Maryland
 - Produced data-driven stories for publication by combining statistical analysis, investigative reporting, and public records
