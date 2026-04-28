@@ -39,6 +39,10 @@
 ## Data Visualizations 
 
 **Partisan Divide on U.S-Iran Conflict Is Consistent Across Polls**
+<img src="partisan_divide_graphic.png" width="800 />
+- Highlights multiple national polling surveys partisian divide results about the U.S-Iran conflict
+- Tools: Excel, Datawrapper 
+
 
 **Trump DEI Coverage: Domestic vs. International Narratives**
 <img src="trump_dei_graphic.png" width="800"/> 
