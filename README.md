@@ -39,7 +39,11 @@
 ## Data Visualizations 
 
 **How AI Misconduct Cases Can Take Different Paths** 
-<img src=" " 
+<img src="AI Misconduct Graphic (1).png" width="800" />  
+
+- Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/30/how-ai-misconduct-cases-are-handled-across-maryland-campuses/), [Daily Record](https://thedailyrecord.com/2026/05/01/how-maryland-campuses-handle-ai-misconduct-cases/#:~:text=Across%20the%20Maryland%20university%20policies,often%20left%20to%20faculty%20judgment.), [Baltimore Fishbowl](https://baltimorefishbowl.com/stories/how-ai-misconduct-cases-are-handled-across-maryland-campuses/#:~:text=By%3A%20Tiasia%20Saunders.,whether%20a%20violation%20has%20occurred.), [Montgomery County Sentinal](https://www.thesentinel.com/communities/how-ai-misconduct-cases-are-handled-across-maryland-campuses/article_3a480937-e1dc-4792-94b6-1946ef993704.html)
+- A flowchart that shows the two different paths AI misconduct cases can take
+- Tools: Canva 
 
 
 **Partisan Divide on U.S-Iran Conflict Is Consistent Across Polls**
