@@ -42,7 +42,7 @@
 <img src="AI Misconduct Graphic (1).png" width="800" />  
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/30/how-ai-misconduct-cases-are-handled-across-maryland-campuses/), [Daily Record](https://thedailyrecord.com/2026/05/01/how-maryland-campuses-handle-ai-misconduct-cases/#:~:text=Across%20the%20Maryland%20university%20policies,often%20left%20to%20faculty%20judgment.), [Baltimore Fishbowl](https://baltimorefishbowl.com/stories/how-ai-misconduct-cases-are-handled-across-maryland-campuses/#:~:text=By%3A%20Tiasia%20Saunders.,whether%20a%20violation%20has%20occurred.), [Montgomery County Sentinal](https://www.thesentinel.com/communities/how-ai-misconduct-cases-are-handled-across-maryland-campuses/article_3a480937-e1dc-4792-94b6-1946ef993704.html)
-- A flowchart that shows the two different paths AI misconduct cases can take
+- A flowchart that shows the two different paths AI misconduct cases can take.
 - Tools: Canva 
 
 
@@ -50,7 +50,7 @@
 <img src="partisan_divide_graphic.png" width="800"/>
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/07/polls-show-majority-of-americans-disapprove-of-iran-conflict-as-trump-defends-war-in-address/)
-- Highlights multiple national polling surveys partisian divide results about the U.S-Iran conflict
+- Highlights multiple national polling surveys partisian divide results about the U.S-Iran conflict.
 - Tools: Excel, Datawrapper
 
 **Outcomes of Immigration-Related Bills in the Maryland Legislature (2013–2026)**
@@ -99,8 +99,6 @@
 
 <img src="https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21" alt="Frederick County: A Battleground of Shifting Politics" width="800" />
 
-
-
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/05/09/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [The Southern Maryland Chronicle](https://southernmarylandchronicle.com/2025/05/27/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [Maryland Matters](https://marylandmatters.org/2025/05/26/pardoned-maryland-jan-6-participants-find-support-after-convictions/#:~:text=6%2C%202021%2C%20insurrection%20at%20the,new%20acquaintances%20in%20his%20community.), and [The Baltimore Sun](https://www.baltimoresun.com/2025/05/26/pardoned-maryland-residents-jan-6-insurrection/)
 - A visual breakdown of political realignment in Frederick County, Maryland—tracking voter trends, demographic changes, and shifting party control
 - Showcases nuanced, hyperlocal political changes in a swing county with growing electoral significance.
@@ -110,10 +108,10 @@
 
 
 ## Projects 
-- [Framing the Border: How CNN and Fox News Cover Trump and Immigration] {https://t-cms.github.io/personal_code_projects/cj_final_project/trump_immigration_final_project/index.html) 
-- [Pipeline and Hazardous Materials Safety Administration Docket 2019-0091 Comments' Analysis] (https://t-cms.github.io/personal_code_projects/howard_center_work/phmsa_work/phmsa_comments_work.html)
-- [NASA Pathways Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
-- [ASVAB Testing Program Demographic Analysis] (https://t-cms.github.io/personal_code_projects/asvab_work/asvab_work.html)
+- [Framing the Border: How CNN and Fox News Cover Trump and Immigration](https://t-cms.github.io/personal_code_projects/cj_final_project/trump_immigration_final_project/index.html) 
+- [Pipeline and Hazardous Materials Safety Administration Docket 2019-0091 Comments' Analysis](https://t-cms.github.io/personal_code_projects/howard_center_work/phmsa_work/phmsa_comments_work.html)
+- [NASA Pathways Program Demographic Analysis](https://t-cms.github.io/personal_code_projects/nasa_work/nasa_demographic_work.html)
+- [ASVAB Testing Program Demographic Analysis](https://t-cms.github.io/personal_code_projects/asvab_work/asvab_work.html)
 
   
 ## Publications 
