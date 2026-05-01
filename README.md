@@ -38,6 +38,10 @@
 
 ## Data Visualizations 
 
+**How AI Misconduct Cases Can Take Different Paths** 
+<img src=" " 
+
+
 **Partisan Divide on U.S-Iran Conflict Is Consistent Across Polls**
 <img src="partisan_divide_graphic.png" width="800"/>
 
