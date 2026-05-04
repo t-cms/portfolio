@@ -38,7 +38,7 @@
 
 ## Data Visualizations 
 
-**How AI Misconduct Cases Can Take Different Paths** 
+[**How AI Misconduct Cases Can Take Different Paths**](https://github.com/t-cms/portfolio/blob/main/AI%20Misconduct%20Graphic%20(1).png) 
 <img src="AI Misconduct Graphic (1).png" width="800" />  
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/30/how-ai-misconduct-cases-are-handled-across-maryland-campuses/), [Daily Record](https://thedailyrecord.com/2026/05/01/how-maryland-campuses-handle-ai-misconduct-cases/#:~:text=Across%20the%20Maryland%20university%20policies,often%20left%20to%20faculty%20judgment.), [Baltimore Fishbowl](https://baltimorefishbowl.com/stories/how-ai-misconduct-cases-are-handled-across-maryland-campuses/#:~:text=By%3A%20Tiasia%20Saunders.,whether%20a%20violation%20has%20occurred.), [Montgomery County Sentinal](https://www.thesentinel.com/communities/how-ai-misconduct-cases-are-handled-across-maryland-campuses/article_3a480937-e1dc-4792-94b6-1946ef993704.html)
@@ -46,21 +46,21 @@
 - Tools: Canva 
 
 
-**Partisan Divide on U.S-Iran Conflict Is Consistent Across Polls**
+[**Partisan Divide on U.S-Iran Conflict Is Consistent Across Polls**](https://github.com/t-cms/portfolio/blob/main/partisan_divide_graphic.png)
 <img src="partisan_divide_graphic.png" width="800"/>
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/07/polls-show-majority-of-americans-disapprove-of-iran-conflict-as-trump-defends-war-in-address/)
 - Highlights multiple national polling surveys partisian divide results about the U.S-Iran conflict.
 - Tools: Excel, Datawrapper
 
-**Outcomes of Immigration-Related Bills in the Maryland Legislature (2013–2026)**
+[**Outcomes of Immigration-Related Bills in the Maryland Legislature (2013–2026)**](https://www.datawrapper.de/_/I556g/?v=6)
 <img src="md_bills_graphic.png" width="800" /> 
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/07/maryland-braces-for-increased-immigration-enforcement-with-dozens-of-bills/)  
 - A grouped bar chart that shows the outcome of Maryland immigration-related bills and the associated statuses for the count of bills for years 2013 - 2026. 
 - Tools Excel, Datawrapper 
 
-**Trump DEI Coverage: Domestic vs. International Narratives**
+[**Trump DEI Coverage: Domestic vs. International Narratives**](https://github.com/t-cms/portfolio/blob/main/trump_dei_graphic.png)
 <img src="trump_dei_graphic.png" width="800"/> 
 
 - Created for an in-progress academic paper on comparative media framing of DEI-related Trump coverage (targeting peer-reviewed publication).
@@ -68,7 +68,7 @@
 -  Type: Comparative topic modeling visualization
 - Tools: R (ggplot2), dplyr, tidytext
 
-**What defines a high-hazard flammable train**
+[**What defines a high-hazard flammable train**](https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png)
 
 <img src="HHFT Graphic.png" alt="What defines a high-hazard flammable train" width="800" />
 
@@ -77,7 +77,7 @@
 - Translates complex regulatory language into a clear visual format, highlighting inconsistencies in how high-hazard flammable trains are defined—especially in the context of recent rail accidents.
 - Tools: Adobe Illustrator
 
-**High-hazard flammable train routes more active in Texas, Washington, and Midwest**
+[**High-hazard flammable train routes more active in Texas, Washington, and Midwest**](https://github.com/t-cms/portfolio/blob/main/HHFT_map_graphic.png)
 <img src="HHFT_map_graphic.png" width=800/>
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/08/13/apply-safety-rules-to-more-flammable-cargo-trains-lawmakers-urge/)
