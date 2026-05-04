@@ -58,7 +58,7 @@
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2026/04/07/maryland-braces-for-increased-immigration-enforcement-with-dozens-of-bills/)  
 - A grouped bar chart that shows the outcome of Maryland immigration-related bills and the associated statuses for the count of bills for years 2013 - 2026. 
-- Tools Excel, Datawrapper 
+- Tools: Excel, Datawrapper 
 
 [**Trump DEI Coverage: Domestic vs. International Narratives**](https://github.com/t-cms/portfolio/blob/main/trump_dei_graphic.png)
 <img src="trump_dei_graphic.png" width="800"/> 
@@ -104,7 +104,6 @@
 - A visual breakdown of political realignment in Frederick County, Maryland—tracking voter trends, demographic changes, and shifting party control
 - Showcases nuanced, hyperlocal political changes in a swing county with growing electoral significance.
 - Tools: Adobe Illustrator
-
 
 
 
