@@ -93,6 +93,7 @@
 - Appeared in [Capital News Service](https://cnsmaryland.org/2025/05/09/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [the Southern Maryland Chronicle](https://southernmarylandchronicle.com/2025/05/27/pardoned-maryland-jan-6-participants-find-support-after-convictions/), [Maryland Matters](https://marylandmatters.org/2025/05/26/pardoned-maryland-jan-6-participants-find-support-after-convictions/#:~:text=6%2C%202021%2C%20insurrection%20at%20the,new%20acquaintances%20in%20his%20community.), and [the Balitmore Sun](https://www.baltimoresun.com/2025/05/26/pardoned-maryland-residents-jan-6-insurrection/)
 - An interactive map comparing 2020 presidential vote shares in Maryland counties with the number of residents charged in the January 6 Capitol attack.
 - Reveals geographic and political correlations in Maryland between voting behavior and post-election extremism.
+- Compiled and merged election results with federal charging data to build a county-level dataset for analysis
 - Tools: Flourish, R
 
 [**Frederick County: A Battleground of Shifting Politics**](https://github.com/user-attachments/assets/fae20093-cb69-48cc-a1e8-fe5f970f1a21)
