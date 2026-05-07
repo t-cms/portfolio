@@ -105,6 +105,15 @@
 - Showcases nuanced, hyperlocal political changes in a swing county with growing electoral significance.
 - Tools: Adobe Illustrator
 
+## Unpublished Work 
+[**National Reformatory Death Count + State of Cemetery Graphic**](https://public.flourish.studio/visualisation/28558671/)
+<img src="https://github.com/t-cms/portfolio/blob/main/reformatory_map_graphic.png" />
+
+- A U.S. map visualizing recorded deaths at historical juvenile institutions, including reform schools, industrial schools, and correctional facilities operating primarily during the 1800s and early 1900s.
+- Part of work for a Cheltenham National story that will be coming out at the end of the month 
+
+
+
 
 
 ## Projects 
