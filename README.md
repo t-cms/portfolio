@@ -97,7 +97,10 @@
 - Showcases nuanced, hyperlocal political changes in a swing county with growing electoral significance.
 - Tools: Adobe Illustrator
 
-
+## Reporting 
+- [Death Count at Cheltenham Boys' Center Was Nine Times that of White Facility](https://cnsmaryland.org/2026/05/07/death-count-at-cheltenham-boys-center-was-nine-times-that-of-white-facility/)
+    - Appeared in [Maryland Matters](https://marylandmatters.org/2026/05/09/death-count-at-cheltenham-boys-center-was-nine-times-that-of-white-facility/)
+- [Decades of data haven't ended racial disparities in Illinois traffic stops](https://www.raceandequityproject.org/article/illinois-traffic-stops-black-drivers-racial-profiling-disparities)
 
 ## Projects 
 - [Chicago Police Department versus other Illinois Law Enforcement Agencies Correlation with the Veil of Darkness](https://djnf-data-2026.github.io/tiasia-saunders/webpage/index.html)
