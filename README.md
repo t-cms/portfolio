@@ -60,14 +60,6 @@
 - A grouped bar chart that shows the outcome of Maryland immigration-related bills and the associated statuses for the count of bills for years 2013 - 2026. 
 - Tools: Excel, Datawrapper 
 
-[**Trump DEI Coverage: Domestic vs. International Narratives**](https://github.com/t-cms/portfolio/blob/main/trump_dei_graphic.png)
-<img src="trump_dei_graphic.png" width="800"/> 
-
-- Created for an in-progress academic paper on comparative media framing of DEI-related Trump coverage (targeting peer-reviewed publication).
--  Highlights global narrative divergence and thematic emphasis between domestic and foreign reporting.
--  Type: Comparative topic modeling visualization
-- Tools: R (ggplot2), dplyr, tidytext
-
 [**What defines a high-hazard flammable train**](https://github.com/t-cms/portfolio/blob/main/HHFT%20Graphic.png)
 
 <img src="HHFT Graphic.png" alt="What defines a high-hazard flammable train" width="800" />
@@ -104,13 +96,6 @@
 - A visual breakdown of political realignment in Frederick County, Maryland—tracking voter trends, demographic changes, and shifting party control
 - Showcases nuanced, hyperlocal political changes in a swing county with growing electoral significance.
 - Tools: Adobe Illustrator
-
-## Unpublished Work 
-[**National Reformatory Death Count + State of Cemetery Graphic**](https://public.flourish.studio/visualisation/28558671/)
-<img src="reformatory_map_graphic.png" width="800" />
-
-- A U.S. map visualizing recorded deaths at historical juvenile institutions, including reform schools, industrial schools, and correctional facilities operating primarily during the 1800s and early 1900s.
-- Part of work for a Cheltenham National story that will be coming out at the end of the month 
 
 
 
