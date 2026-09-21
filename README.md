@@ -1,11 +1,11 @@
 # Tiasia Saunders's Portfolio 
 
-### Professional Summary: 
+### Professional Summary 
 ##### Howard University honors graduate and current fellow and graduate student at the Howard Center for Investigative Journalism at the University of Maryland. Additionally, a Data Journalist for the Capital News Service at UMD. Experienced in investigative and data-driven reporting with a focus on racial and socioeconomic disparities. Skilled in R, data visualization, and digital storytelling. Passionate about uncovering and telling powerful stories using data analysis, coding, and visualization tools.
 
-### Technical Skills:
+### Technical Skills
 #### Programming & Analysis: R, SQL, Excel
-#### Data Visualization: Datawrapper, Flourish
+#### Data Visualization: Datawrapper, Flourish, RawGraphs
 #### Web Development: HTML, CSS, JavaScript
 
 ## Education 
@@ -13,7 +13,12 @@
 - B.A., Bachelor's of Arts in Media, Journalism and Film | Howard University | (_May 2024_)
 
 ## Work Experience 
-**Data and Graphics Journalist @ Capital News Service (_January 2026 - Present_)** 
+**Dow Jones Data Journalism Intern @ Investigative Project on Race and Equity (_May 2026 - August 2026_)**
+- Conduct data-driven investigative reporting by analyzing Illinois traffic stop data through the Veil of Darkness methodology to examine potential racial disparities in policing.
+- Build and analyze datasets covering multiple law enforcement agencies across Cook County and suburban collar counties, comparing traffic stop demographics with jurisdictional population demographics and calculating vehicle search rates by race to identify patterns in enforcement practices.
+- Pitch and develop investigative story ideas focused on accountability, equity, and racial disparities while collaborating on data-driven reporting projects.
+
+**Data and Graphics Journalist @ Capital News Service (_January 2026 - May 2026_)** 
 - Develop and publish  data-driven investigative stories 
 - Analyzed and cleaned large public datasets using R, SQL, and Excel to uncover trends in racial, socioeconomic, and policy-related issues across Maryland
 - Produced data-driven stories for publication by combining statistical analysis, investigative reporting, and public records
@@ -21,11 +26,9 @@
 - Conducted original reporting by filing public records requests (FOIA) and synthesizing data with expert interviews
 
 **Data Journalist Fellow @ Howard Center for Investigative Journalism (_August 2024- Present_)**
-- Develop and publish  data-driven investigative stories 
-- Learn web development, interactive design, and coding in languages such as JavaScript and Python
-- Use R and Python for data analysis 
-- Use HTML/ CSS for webpage development
-- Contribute to innovative and impactful journalism
+- Develop data-driven investigative stories and visualizations on public interest issues, including the award-winning “Off the Rails” project, recipient of the 2026 National Edward R. Murrow investigative reporting award and the SABEW Best in Business Award for Student Journalism; create data visualizations to communicate complex findings.
+- Use R, web scraping, and data analysis techniques to build datasets, identify trends, and support investigative reporting, including analysis of PHMSA LNG facility records and regulatory data.
+- Compile and analyze public records datasets for accountability reporting, including state medical board disciplinary records; submit FOIA requests to obtain government documents and strengthen investigations.
 
 **Data Journalist Intern @ Howard Center for Investigative Journalism (_June 2025 - August 2025_)**
 - Analyze PHMSA public docket comments using sentiment analysis, topic modeling, and other data analysis techniques
