@@ -1,10 +1,10 @@
 # Tiasia Saunders's Portfolio 
 
 ### Professional Summary 
-##### Howard University honors graduate and current fellow and graduate student at the Howard Center for Investigative Journalism at the University of Maryland. Additionally, a Data Journalist for the Capital News Service at UMD. Experienced in investigative and data-driven reporting with a focus on racial and socioeconomic disparities. Skilled in R, data visualization, and digital storytelling. Passionate about uncovering and telling powerful stories using data analysis, coding, and visualization tools.
+##### Howard University honors graduate and 2024-2026 fellow and graduate student at the Howard Center for Investigative Journalism at the University of Maryland. Experienced in investigative research and data-driven reporting with a focus on racial and socioeconomic disparities. Skilled in R, data visualization, and digital storytelling. Passionate about uncovering and telling powerful stories using data analysis, coding, and visualization tools.
 
 ### Technical Skills
-#### Programming & Analysis: R, SQL, Excel
+#### Programming & Analysis: R, Python SQL, Excel
 #### Data Visualization: Datawrapper, Flourish, RawGraphs
 #### Web Development: HTML, CSS, JavaScript
 
@@ -13,24 +13,24 @@
 - B.A., Bachelor's of Arts in Media, Journalism and Film | Howard University | (_May 2024_)
 
 ## Work Experience 
-**Dow Jones Data Journalism Intern @ Investigative Project on Race and Equity (_May 2026 - August 2026_)**
+**Dow Jones Data Journalism Intern @ Investigative Project on Race and Equity (_May 2026-August 2026_)**
 - Conduct data-driven investigative reporting by analyzing Illinois traffic stop data through the Veil of Darkness methodology to examine potential racial disparities in policing.
 - Build and analyze datasets covering multiple law enforcement agencies across Cook County and suburban collar counties, comparing traffic stop demographics with jurisdictional population demographics and calculating vehicle search rates by race to identify patterns in enforcement practices.
 - Pitch and develop investigative story ideas focused on accountability, equity, and racial disparities while collaborating on data-driven reporting projects.
 
-**Data and Graphics Journalist @ Capital News Service (_January 2026 - May 2026_)** 
+**Data and Graphics Journalist @ Capital News Service (_January 2026-May 2026_)** 
 - Develop and publish  data-driven investigative stories 
 - Analyzed and cleaned large public datasets using R, SQL, and Excel to uncover trends in racial, socioeconomic, and policy-related issues across Maryland
 - Produced data-driven stories for publication by combining statistical analysis, investigative reporting, and public records
 - Created interactive and static data visualizations using Datawrapper, Flourish, and ggplot2 to clearly communicate complex findings to a general audience
 - Conducted original reporting by filing public records requests (FOIA) and synthesizing data with expert interviews
 
-**Data Journalist Fellow @ Howard Center for Investigative Journalism (_August 2024- Present_)**
+**Data Journalist Fellow @ Howard Center for Investigative Journalism (_August 2024-Present_)**
 - Develop data-driven investigative stories and visualizations on public interest issues, including the award-winning “Off the Rails” project, recipient of the 2026 National Edward R. Murrow investigative reporting award and the SABEW Best in Business Award for Student Journalism; create data visualizations to communicate complex findings.
 - Use R, web scraping, and data analysis techniques to build datasets, identify trends, and support investigative reporting, including analysis of PHMSA LNG facility records and regulatory data.
 - Compile and analyze public records datasets for accountability reporting, including state medical board disciplinary records; submit FOIA requests to obtain government documents and strengthen investigations.
 
-**Data Journalist Intern @ Howard Center for Investigative Journalism (_June 2025 - August 2025_)**
+**Data Journalist Intern @ Howard Center for Investigative Journalism (_June 2025-August 2025_)**
 - Analyze PHMSA public docket comments using sentiment analysis, topic modeling, and other data analysis techniques
 - Conduct fact-checking, source outreach, and background research for investigative reporting on hazardous rail infrastructure
 - Create visualizations and data graphics to highlight patterns and safety concerns in rail projects
@@ -38,8 +38,34 @@
 - Assist in early-stage story development by identifying trends and researching potential investigative leads
 - Collaborate with reporters, editors, and data journalists to integrate computational methods into newsroom workflows
 
+**Freelance Reporter @ The Washington Informer (_August 2024-December 2024_)** 
+- Reported on racial and socioeconomic disparities in Washington, D.C., including inequities in pretrial detention and access to food.
+- Examined how food deserts affect D.C. communities, highlighting disparities in food access and neighborhood resources.
+- Covered Initiative 83 and its potential implications for D.C.’s electoral system and the future of local voting.
+- Researched public policy and community issues, translating complex topics into accessible, community-focused news stories.
+
+**News and Politics Staff Reporter @ Hilltop Student News Publication (_January 2021-May 2024_)**
+- Reported on campus news, public health, student safety and university resources, covering issues affecting Howard University students and the surrounding community.
+- Covered public concerns about COVID-19 and campus violence, reporting on student safety and university responses.
+- Reported on student housing insecurity, including students sleeping in tents amid limited campus housing resources.
+- Covered major national and international events, including the death of Queen Elizabeth II and its global implications.
+- Conducted interviews, researched complex issues and produced timely news stories for a student audience.
 
 ## Data Visualizations 
+
+[**Death in U.S. Youth Detention and Reform Schools**](https://t-cms.github.io/personal_code_projects/ch_national/index.html)
+<img src="national_reform.png" width="800" />
+
+- Appeared in [Capital News Service](https://cnsmaryland.org/2026/10/16/national-reform-school-deaths/)
+- A interactive graphic of multiple images of youth detention centers and reformatories that experience deaths.
+- Tools: HTML, CSS, JavaScript 
+
+[**Historical Death Counts in U.S. Juvenile Institutions**](https://public.flourish.studio/visualisation/30084333/)
+<img src="Historical Death Counts in U.S. Juvenile Institutions (2).png" width="800" /> 
+- An interactive map that highlights the location of youth detention and reformatories across the U.S., includes information about each institution, facility type, years of operation, death count, and race/gender it housed.
+- Tools: R, Google Sheets, Flourish 
+
+- Appeared in [Capital News Service](https://cnsmaryland.org/2026/10/16/national-reform-school-deaths/) 
 
 [**How AI Misconduct Cases Can Take Different Paths**](https://github.com/t-cms/portfolio/blob/main/AI%20Misconduct%20Graphic%20(1).png) 
 <img src="AI Misconduct Graphic (1).png" width="800" />  
