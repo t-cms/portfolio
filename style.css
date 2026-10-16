@@ -1,0 +1,27 @@
+:root { color-scheme: light; --ink: #222; --muted: #696969; --line: #e5e5e5; --link: #245b9e; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #fff; color: var(--ink); font: 16px/1.7 Georgia, 'Times New Roman', serif; }
+.page { max-width: 790px; margin: 0 auto; padding: 76px 28px 28px; }
+.intro { max-width: 700px; }
+h1 { font-size: clamp(30px, 5vw, 38px); font-weight: 500; line-height: 1.2; letter-spacing: -.8px; margin: 0 0 26px; }
+p { margin: 0 0 16px; }
+a { color: var(--link); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { color: #123b6b; text-decoration-thickness: 2px; }
+.contact { margin-top: 20px; }
+.contact span { color: #999; margin: 0 6px; }
+.filters { display: flex; gap: 9px; flex-wrap: wrap; margin: 54px 0 25px; }
+.filter { appearance: none; border: 1px solid #d7d7d7; background: #fff; color: #444; font: 13px/1.4 Arial, Helvetica, sans-serif; padding: 8px 13px; border-radius: 3px; cursor: pointer; }
+.filter:hover, .filter:focus-visible { border-color: #888; }
+.filter.active { background: #222; color: #fff; border-color: #222; }
+.portfolio-list { min-height: 260px; }
+.portfolio-group h2 { font: 600 18px/1.4 Arial, Helvetica, sans-serif; margin: 0 0 16px; }
+.portfolio-group ul { list-style: none; margin: 0; padding: 0; }
+.portfolio-group li { margin: 0; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.portfolio-group li:first-child { border-top: 1px solid var(--line); }
+.portfolio-group li span { color: var(--muted); font: 12px/1.5 Arial, Helvetica, sans-serif; }
+.portfolio-group li .story-link { font: 12px/1.5 Arial, Helvetica, sans-serif; white-space: nowrap; }
+[hidden] { display: none !important; }
+footer { border-top: 1px solid var(--line); margin-top: 58px; padding-top: 18px; display: flex; justify-content: space-between; gap: 15px; color: #777; font: 12px/1.6 Arial, Helvetica, sans-serif; }
+footer a { color: #555; }
+@media (max-width: 560px) { .page { padding: 42px 20px 24px; } body { font-size: 15px; } .filters { margin-top: 38px; } .portfolio-group li span { display: block; margin-top: 4px; } footer { flex-direction: column; } }
