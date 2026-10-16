@@ -57,7 +57,7 @@
 <img src="national_reform.png" width="800" />
 
 - Appeared in [Capital News Service](https://cnsmaryland.org/2026/10/16/national-reform-school-deaths/)
-- A interactive graphic of multiple images of youth detention centers and reformatories that experience deaths.
+- An interactive graphic of multiple images of youth detention centers and reformatories that experience deaths.
 - Tools: HTML, CSS, JavaScript 
 
 [**Historical Death Counts in U.S. Juvenile Institutions**](https://public.flourish.studio/visualisation/30084333/)
