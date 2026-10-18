@@ -158,9 +158,8 @@ footer a {
     }
 }
 
-#typing-heading::after {
-    content: "|";
-    animation: blink 0.7s infinite;
+#typing-heading.typing-finished::after {
+    animation: blink 0.5s step-end 5 forwards;
 }
 
 @keyframes blink {
