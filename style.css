@@ -353,6 +353,14 @@ footer a {
         flex-direction: column;
         gap: 0.5rem;
     }
+      
+    .story-link {
+        font-family: Georgia, serif;
+        font-size: inherit;
+        font-weight: normal;
+        font-style: normal;
+    }
+
 
     .tool-tags {
         justify-content: flex-start;
