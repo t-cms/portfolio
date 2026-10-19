@@ -118,7 +118,8 @@ a:hover {
         12px/1.5 Arial,
         Helvetica,
         sans-serif;
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: anywhere;
 }
 [hidden] {
     display: none !important;
@@ -353,14 +354,6 @@ footer a {
         flex-direction: column;
         gap: 0.5rem;
     }
-      
-    .story-link {
-        font-family: Georgia, serif;
-        font-size: inherit;
-        font-weight: normal;
-        font-style: normal;
-    }
-
 
     .tool-tags {
         justify-content: flex-start;
